@@ -4,4 +4,4 @@ This project delves into the development ofoffline maps using QGIS, specifically
 The primary challenge is to develop an interactive web map capable of accurately representing the range of antennas while providing users with customization and filtering options. Additionally, the map must dynamically update in response to changes in the input CSV data. Another problem is integrating terrain considerations, such as Digital Elevation Models (DEM), to facilitate precise viewshed analysis.
 
 
-[Uploading Colorful.Modern.Business.Infographic.Presentation.pdf…]()
+
